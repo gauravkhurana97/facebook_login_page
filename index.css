@@ -19,9 +19,14 @@ h1
     float: left;
     -webkit-font-smoothing: antialiased;
 }
-h1 a {
+h1 a{
     color: white;
-    text-decoration: none;
+}
+h1 a:hover{
+    color: #ffffff;
+}
+h1 a:visited{
+    color: #ffffff;
 }
 .header .inner_container form{
     float: right;
@@ -29,16 +34,16 @@ h1 a {
 form .input{
     float: left;
     line-height: 22px;
-    margin: 10px 
+    margin: 10px;
+    font-size: 12px;
 }
 form div input
 {
     border: 1px solid black;
 }
 .main_content{
-background-color: ;
 background-image: linear-gradient(white,rgb(235,237,244),rgb(223,227,238),rgb(215,219,234), rgb(212,217,232));
-
+height: 573px;
 }
 
 .main_content .inner_container .row .left_side p{
@@ -60,7 +65,7 @@ background-image: linear-gradient(white,rgb(235,237,244),rgb(223,227,238),rgb(21
 }
 
 .main_content .inner_container .row  .right_side form p{
-    color:rgb(171,148,156);
+    color: rgb(115, 115, 115);
     font-size:19px; 
 }
 
@@ -82,9 +87,10 @@ background-image: linear-gradient(white,rgb(235,237,244),rgb(223,227,238),rgb(21
 }
 .main_content .inner_container .row  .right_side form .popover-content{
     background-color: rgb(190,75,73);
+    font-size: 13px;
     color: white;
     margin: 0px;
-    padding: 0px;
+    padding: 13px;
     border: 1px solid black;
 }
 .footer{
