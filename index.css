@@ -96,8 +96,8 @@ height: 573px;
 .footer{
     clear: both;
     background-color: white;
-    padding-top: 70px;
-    padding-bottom: 44px;
+    padding-top: 46px;
+    padding-bottom: 42px;
 }
 .footer .inner_container a
 {
@@ -106,4 +106,10 @@ height: 573px;
 .footer hr{
     background-color: rgb(221,223,226);
     height: 1px;
-}
+margin: 8px 0px;}
+
+.footer .inner_container span a
+{
+    margin: -3px;
+    font-size: 12px;
+} 
