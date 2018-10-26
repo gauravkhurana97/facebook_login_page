@@ -96,12 +96,15 @@ background-image: linear-gradient(rgb(255, 255, 255), rgb(211, 216, 232));
 .footer{
     clear: both;
     background-color: white;
+
     padding-top: 70px;
     padding-bottom: 26px;
 }
 .footlink a{
     color: rgb(54, 88, 153);
     cursor: pointer;
+    padding-top: 46px;
+    padding-bottom: 42px;
 }
 .footer .inner_container a
 {
@@ -110,8 +113,4 @@ background-image: linear-gradient(rgb(255, 255, 255), rgb(211, 216, 232));
 .footer hr{
     background-color: rgb(221,223,226);
     height: 1px;
-    margin: 8px 0px;}
-.footer .inner_container span a{
-       margin: -3px;
-       font-size: 12px;
-}
+
