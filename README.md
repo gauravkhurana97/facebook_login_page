@@ -9,7 +9,6 @@ Then, **Open** _index.html_ file using a browser.
 ### Front-End Lang. Used
 * HTML 
 * CSS
-* Bootstrap
 
 ## Preview Image
 ![Preview Image](Preview.png)
