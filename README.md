@@ -10,3 +10,8 @@ Then, **Open** _index.html_ file using a browser.
 * HTML 
 * CSS
 * Bootstrap
+
+## Preview Image
+![Preview Image](Preview.png)
+
+> Gaurav Khurana &copy; 2018
